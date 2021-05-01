@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#code {
+    min-height: 600px;
+}
+
+#output {
+    min-height: 600px;
+    background: #eee;
+    padding: 3px;
+}
